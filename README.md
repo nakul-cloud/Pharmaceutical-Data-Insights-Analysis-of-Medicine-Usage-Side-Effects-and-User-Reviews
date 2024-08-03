@@ -70,7 +70,7 @@ Several visualizations were created to illustrate the data insights:
 
 ### Top 10 Most Frequent Uses: A bar chart depicting the most common medical uses for the medicines. ![Alt text](https://github.com/nakul-cloud/Pharmaceutical-Data-Insights-Analysis-of-Medicine-Usage-Side-Effects-and-User-Reviews/blob/main/top%2010%20freq%20use.png)
 
-### Top Manufacturer :[Alt text](https://github.com/nakul-cloud/Pharmaceutical-Data-Insights-Analysis-of-Medicine-Usage-Side-Effects-and-User-Reviews/blob/main/manufacturere.png)
+### Top Manufacturer The dataset analysis revealed that [Pfizer & Merck] is the leading producer, with the highest number of unique medicines in the dataset.:![Alt text](https://github.com/nakul-cloud/Pharmaceutical-Data-Insights-Analysis-of-Medicine-Usage-Side-Effects-and-User-Reviews/blob/main/manufacturere.png)
 
 ### Side Effects Analysis: A horizontal bar chart highlighting the most reported side effects, such as pain, nausea, and headaches.
 ![Alt text](https://github.com/nakul-cloud/Pharmaceutical-Data-Insights-Analysis-of-Medicine-Usage-Side-Effects-and-User-Reviews/blob/main/most%20common%20side%20effects.png)
