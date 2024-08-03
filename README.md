@@ -18,15 +18,15 @@ This project aims to analyze a comprehensive dataset of medicines, examining asp
 # Data Description
 The dataset includes the following columns:
 
-Medicine Name: The name of the medicine.
-Composition: The active pharmaceutical ingredients.
-Uses: The medical conditions treated by the medicine.
-Side Effects: Reported adverse effects from using the medicine.
-Manufacturer: The pharmaceutical company that produces the medicine.
-Excellent Review %: The percentage of reviews rating the medicine as excellent.
-Average Review %: The percentage of reviews rating the medicine as average.
-Poor Review %: The percentage of reviews rating the medicine as poor.
-The dataset comprises 11,498 unique medicine entries, covering a wide range of therapeutic areas and manufacturers.
+- **Medicine Name**: The name of the medicine.
+- **Composition**: The active pharmaceutical ingredients.
+- **Uses**: The medical conditions treated by the medicine.
+- **Side Effects**: Reported adverse effects from using the medicine.
+- **Manufacturer**: The pharmaceutical company that produces the medicine.
+- **Excellent Review %**: The percentage of reviews rating the medicine as excellent.
+- **Average Review %**: The percentage of reviews rating the medicine as average.
+- **Poor Review %**: The percentage of reviews rating the medicine as poor.
+- The dataset comprises **11,498 unique medicine entries**, covering a wide range of therapeutic areas and manufacturers.
 
 # Setup and Installation
 Prerequisites
