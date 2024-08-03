@@ -66,10 +66,17 @@ The dataset reveals the top medical conditions treated by the medicines, with th
 # Visualizations
 Several visualizations were created to illustrate the data insights:
 
-### Top 10 Most Frequent Medicines: A bar chart showing the most common medicines in the dataset.
-### Top 10 Most Frequent Uses: A bar chart depicting the most common medical uses for the medicines.
+### Top 10 Most Frequent Medicines: A bar chart showing the most common medicines in the dataset. ![Alt text](https://github.com/nakul-cloud/Pharmaceutical-Data-Insights-Analysis-of-Medicine-Usage-Side-Effects-and-User-Reviews/blob/main/top%2010%20medicine.png)
+
+### Top 10 Most Frequent Uses: A bar chart depicting the most common medical uses for the medicines. ![Alt text](https://github.com/nakul-cloud/Pharmaceutical-Data-Insights-Analysis-of-Medicine-Usage-Side-Effects-and-User-Reviews/blob/main/top%2010%20freq%20use.png)
+
+### Top Manufacturer :[Alt text](https://github.com/nakul-cloud/Pharmaceutical-Data-Insights-Analysis-of-Medicine-Usage-Side-Effects-and-User-Reviews/blob/main/manufacturere.png)
+
 ### Side Effects Analysis: A horizontal bar chart highlighting the most reported side effects, such as pain, nausea, and headaches.
-### Review analysis focused on understanding user satisfaction through the distribution of reviews categorized as Excellent, Average, and Poor. The data was aggregated to identify trends in user feedback across different manufacturers. 
+![Alt text](https://github.com/nakul-cloud/Pharmaceutical-Data-Insights-Analysis-of-Medicine-Usage-Side-Effects-and-User-Reviews/blob/main/most%20common%20side%20effects.png)
+
+### Review analysis focused on understanding user satisfaction through the distribution of reviews categorized as Excellent, Average, and Poor. The data was aggregated to identify trends in user feedback across different manufacturers. ![Alt text](https://github.com/nakul-cloud/Pharmaceutical-Data-Insights-Analysis-of-Medicine-Usage-Side-Effects-and-User-Reviews/blob/main/revirew.png)
+![Alt text](https://github.com/nakul-cloud/Pharmaceutical-Data-Insights-Analysis-of-Medicine-Usage-Side-Effects-and-User-Reviews/blob/main/manufacturer%20review%20score.png)
 
 # Findings
 Distribution by Manufacturers: Analysis of the distribution of medicine production by various manufacturers.
